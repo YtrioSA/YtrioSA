@@ -16,4 +16,4 @@ Mas já usei Arch Linux, Pop OS e até gentoo. A minha melhor
 experiência de usuário com o linux foi com o gentoo e o Linux Mate
 que por sinal são ótimas distribuições linux.
 
-<h1 style="text-center">Technology Stack</h1>
+<h1 style="margin:0 auto; color:red;">Technology Stack</h1>
