@@ -13,7 +13,7 @@ entrar no mercado de games indie.
 Sou Usuário de longa data do Pinguim 🐧. 
 Atualmente estou utilizando o Debian GNU/Linux 11 (bullseye).
 Mas já usei Arch Linux, Pop OS e até gentoo. A minha melhor 
-experiência de usuário com o linux foi com o gentoo e o Linux Mate
+experiência de usuário com o linux foi com o gentoo e o Linux Mint
 que por sinal são ótimas distribuições linux.
 
 # Tech Stack
@@ -22,4 +22,8 @@ que por sinal são ótimas distribuições linux.
 
 ## Back-end
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+# Linux
+## Distribuições
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white) ![Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 
