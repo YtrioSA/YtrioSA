@@ -1,4 +1,2 @@
-### Hello Coders me chamo Ytrio Salmito 👋 💻 
+![Hacker](https://img.freepik.com/fotos-premium/lofi-girl-style-apresentando-um-menino-estudando-e-ouvindo-musica_940839-131.jpg?w=900)
 
-![Hacker](https://i.gifer.com/origin/22/22fc3866b30346eba0eb52fcb37afdf1_w200.gif) 
-![Hacker-Man](https://media.tenor.com/yOwKX_hMp6cAAAAM/hackerman-rami-malek.gif)
