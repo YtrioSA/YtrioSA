@@ -9,7 +9,7 @@ também já usei o gamemaker studio 2. É uma excelente ferramenta para quem que
 entrar no mercado de games indie.
 
 Sou Usuário de longa data do Pinguim 🐧. 
-Atualmente estou utilizando o Arch Linux 💙.
+Atualmente estou utilizando o Debian 💙.
 Mas já usei Pop OS, Gento e outros. A minha melhor 
 experiência de usuário com o linux foi com o gentoo e o Linux Mint
 que por sinal são ótimas distribuições linux.
